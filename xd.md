@@ -9,19 +9,19 @@
 
 ### **Ciclo 04**
 
----
+
 
 **Nombre del curso:**
 
 Complejidad Algorítmica
 
----
+
 
 **Sección:**
 
 CC42
 
----
+
 
 **Nombre del profesor:**
 
