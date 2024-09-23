@@ -37,7 +37,7 @@ Alexander Fernandez Garfias - U202019498
 
 ---
 
-## Índice de contenido 
+**Índice de contenido**
 
 1. Descripción del problema  
 2. Descripción del conjunto de datos  
