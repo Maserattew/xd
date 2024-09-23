@@ -1,8 +1,10 @@
-# Universidad Peruana de Ciencias Aplicadas
+![Mapa](./LogoUPC.jfif)
 
-## Facultad de Ingeniería
+#                                               Universidad Peruana de Ciencias Aplicadas
 
-**Ciclo 04**
+##                                                      Facultad de Ingeniería
+
+                                                              **Ciclo 04**
 
 ### Nombre del curso: 
 Complejidad Algorítmica
