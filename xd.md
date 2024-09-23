@@ -1,43 +1,53 @@
 ![Mapa](./LogoUPC.jfif)
 
-#                                               Universidad Peruana de Ciencias Aplicadas
+<center>
 
-##                                                      Facultad de Ingeniería
+# Universidad Peruana de Ciencias Aplicadas
 
-                                                              **Ciclo 04**
+## Facultad de Ingeniería
 
-### Nombre del curso: 
+### **Ciclo 04**
+
+---
+
+**Nombre del curso:**
+
 Complejidad Algorítmica
 
-### Sección:
+---
+
+**Sección:**
+
 CC42
 
-### Nombre del profesor:
+---
 
-**"Informe de Trabajo Parcial"**
+**Nombre del profesor:**
+
+"Informe de Trabajo Parcial"
 
 ---
 
-### Relación de integrantes:
+**Relación de integrantes:**
 
-- Rojas Cuadros Fabian Marcelo - U202218498
-- Su Caletti Eddo - U20221A390
-- Alexander Fernandez Garfias - U202019498
-
----
-
-## Índice de contenido
-
-1. [Descripción del problema](#descripción-del-problema)  
-2. [Descripción del conjunto de datos](#descripción-del-conjunto-de-datos)  
-    2.1 [Estructura del dataset (grafos)](#estructura-del-dataset-grafos)  
-3. [Propuesta](#propuesta)  
-    3.1 [Objetivo](#objetivo)  
-    3.2 [Técnicas y metodología a utilizar](#técnicas-y-metodología-a-utilizar)  
-    3.3 [Metodología](#metodología)  
-4. [Bibliografías](#bibliografías)  
+Rojas Cuadros Fabian Marcelo - U202218498  
+Su Caletti Eddo - U20221A390  
+Alexander Fernandez Garfias - U202019498
 
 ---
+
+### Índice de contenido
+
+1. Descripción del problema  
+2. Descripción del conjunto de datos  
+   2.1 Estructura del dataset (grafos)  
+3. Propuesta  
+   3.1 Objetivo  
+   3.2 Técnicas y metodología a utilizar  
+   3.3 Metodología  
+4. Bibliografías
+
+</center>
 
 ## Descripción del problema:
 
