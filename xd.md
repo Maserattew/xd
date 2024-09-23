@@ -39,14 +39,14 @@ Alexander Fernandez Garfias - U202019498
 
 **Índice de contenido**
 
-1. Descripción del problema  
-2. Descripción del conjunto de datos  
-   2.1 Estructura del dataset (grafos)  
-3. Propuesta  
-   3.1 Objetivo 
-   3.2 Técnicas y metodología a utilizar 
-   3.3 Metodología  
-4. Bibliografías
+Descripción del problema  
+Descripción del conjunto de datos  
+   Estructura del dataset (grafos)  
+Propuesta  
+   Objetivo 
+   Técnicas y metodología a utilizar 
+   Metodología  
+Bibliografías
 
 </div>
 
