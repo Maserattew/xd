@@ -65,6 +65,8 @@ El conjunto de datos utilizado para la simulación se genera a partir de la estr
 Estas herramientas permiten simular el comportamiento del juego y registrar los movimientos generados para su análisis posterior.
 
 ---
+![Mapa](./imagenes/mi_imagen.png)
+
 
 La imagen muestra un modelo gráfico del tablero de 10x10 utilizado en el juego. Cada casilla está representada como un nodo conectado con sus adyacentes mediante aristas, simulando las posibles rutas de movimiento. Las fichas del jugador 1 aparecen en rojo y las del jugador 2 en verde. Esta visualización referencial permite entender cómo se organizan las posiciones iniciales de las fichas y sus conexiones en el tablero.
 
