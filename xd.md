@@ -27,7 +27,6 @@ CC42
 
 "Informe de Trabajo Parcial"
 
----
 
 **Relación de integrantes:**
 
@@ -35,7 +34,7 @@ Rojas Cuadros Fabian Marcelo - U202218498
 Su Caletti Eddo - U20221A390  
 Alexander Fernandez Garfias - U202019498
 
----
+
 
 **Índice de contenido**
 
