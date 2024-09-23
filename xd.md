@@ -1,6 +1,6 @@
 ![Mapa](./LogoUPC.jfif)
 
-<center>
+<div align="center">
 
 # Universidad Peruana de Ciencias Aplicadas
 
@@ -47,7 +47,8 @@ Alexander Fernandez Garfias - U202019498
    3.3 Metodología  
 4. Bibliografías
 
-</center>
+</div>
+
 
 ## Descripción del problema:
 
