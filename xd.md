@@ -4,9 +4,7 @@
 
 
 # Universidad Peruana de Ciencias Aplicadas
-
 ## Facultad de Ingeniería
-
 ### **Ciclo 04**
 
 
